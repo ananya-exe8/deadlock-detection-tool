@@ -21,4 +21,5 @@ A Python-based Operating Systems project that detects deadlocks using graph algo
 ## Run
 
 pip install -r requirements.txt
+
 python gui.py
