@@ -9,7 +9,6 @@ Usage:
     python demo.py simple_deadlock         # single scenario
     python demo.py three_process_deadlock
 """
-
 import sys
 import time
 from ingestion import DataIngestionModule, SIMULATION_SCENARIOS
