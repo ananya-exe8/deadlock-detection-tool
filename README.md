@@ -4,23 +4,17 @@
 
 A modern, redesigned web application for detecting and visualizing deadlocks in operating system processes using industry-standard algorithms — rebuilt with a clean TypeScript + Tailwind CSS interface.
 
-[![React](https://img.shields.io/badge/React-18.3-blue)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-5.4-646CFF)](https://vitejs.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.5-3178C6)](https://www.typescriptlang.org/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-38BDF8)](https://tailwindcss.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
-> Modern redesigned UI for the Deadlock Detective tool. Built with React 18, TypeScript, Vite 5, and Tailwind CSS. Implements Matrix-Based and Wait-For Graph deadlock detection algorithms with an interactive, responsive interface.
-
 ---
 
-## 👥 Project Team
+## 👥 Project Members
 
 **Academic Project - Lovely Professional University**  
 **Course:** CSE 316 - Operating Systems 
 
 **Team Members:**
+
 Ananya N : 12406258
+
 Roshan : 12404131
 
 ## 📖 Overview
@@ -28,10 +22,10 @@ Roshan : 12404131
 **Deadlock Detection Tool** is a redesigned web-based educational tool that helps students and developers understand **deadlock detection** in operating systems. It retains the full algorithm logic from the original project while delivering a completely refreshed, modern UI built with Tailwind CSS and TypeScript.
 
 **Perfect for:**
-- 🎓 Students learning Operating Systems
-- 👨‍🏫 Educators teaching concurrency and synchronization
-- 💻 Developers studying resource management
-- 📚 Anyone interested in how computers handle process deadlocks
+-  Students learning Operating Systems
+-  Educators teaching concurrency and synchronization
+-  Developers studying resource management
+-  Anyone interested in how computers handle process deadlocks
 
 ---
 
@@ -341,6 +335,14 @@ npm run build
 | **ESLint** | Code linting | 9.9.1 |
 | **Supabase JS** | Backend client (optional) | 2.57.4 |
 
+
+[![React](https://img.shields.io/badge/React-18.3-blue)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-5.4-646CFF)](https://vitejs.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.5-3178C6)](https://www.typescriptlang.org/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-38BDF8)](https://tailwindcss.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+> Modern redesigned UI for the Deadlock Detective tool. Built with React 18, TypeScript, Vite 5, and Tailwind CSS. Implements Matrix-Based and Wait-For Graph deadlock detection algorithms with an interactive, responsive interface.
 
 ## 🎓 Academic Project Details
 
