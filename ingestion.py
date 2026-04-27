@@ -7,7 +7,6 @@ a Resource Allocation Graph (RAG) as a NetworkX DiGraph.
 Nodes:
   - "P<pid>"  -> process node
   - "R<rid>"  -> resource node
-
 Edges:
   - P -> R  with type="holds"
   - P -> R  with type="waits_for"
