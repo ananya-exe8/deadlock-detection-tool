@@ -15,7 +15,7 @@ A modern, redesigned web application for detecting and visualizing deadlocks in 
 
 Ananya N : 12406258
 
-Roshan : 12404131
+Roshan Kumar : 12404131
 
 ## 📖 Overview
 
